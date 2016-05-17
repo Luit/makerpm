@@ -1,4 +1,4 @@
-FROM fedora:21
+FROM fedora:23
 MAINTAINER Luit van Drongelen <luit@luit.eu>
 
 RUN yum install -y rpm-build rpmdevtools
